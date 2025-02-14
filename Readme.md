@@ -9,3 +9,7 @@ Just create an endpoint that sends back the tags in a key value pair format, the
 
 You just need to ensure that the endpoint you use has the preview token as the publish token doesn't seem to work. Vercel makes this easy, from the select or multi-select fields, just choose "external Json" then your dev url /api/tags and you're set. 
 
+
+![Result Image](/api/tags/result.png)
+
+![Source Code Image](/api/tags/source.png)
